@@ -1,0 +1,18 @@
+{
+    "John": {
+        "AMD": 63.05,
+        "WFC": 132.66
+    },
+    "Thomas": {
+        "AAPL": 134.07,
+        "FLWS": 14.43
+    },
+    "Christopher": {
+        "AMC": 35.26,
+        "WFC": 126.89
+    },
+    "Michael": {
+        "LITE": 81.14,
+        "BABA": 241.06
+    }
+}
